@@ -3,6 +3,39 @@
     margin: 0;
     padding: 0;
 }
+
 html {
-     font-size: 62.5%;
+    font-size: 62.5%;
+}
+
+.nav-container {
+}
+
+.nav-bar {
+    position: relative;
+    top: 16px;
+    margin: 0 3rem;
+    margin-right: 1.5rem;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-items {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 1.3rem;
+    padding: 0 0.8rem;
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.nav-img-menu {
+    width: 2.2rem;
+}
+.nav-img-account {
+    width: 3.2rem;
 }
