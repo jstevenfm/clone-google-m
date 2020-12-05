@@ -39,10 +39,10 @@ html {
 .container
 
 .logo {
-    padding: 3rem;
 }
 .logo-img {
     width: 27.2rem;
+    padding-top: 16rem;
 }
 
 .search-nav
