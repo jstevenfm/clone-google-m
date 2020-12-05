@@ -38,18 +38,37 @@ html {
 }
 .container
 
-.logo {
-}
+.logo 
 .logo-img {
     width: 27.2rem;
     padding-top: 16rem;
+    padding-bottom: 3rem;
 }
 
-.search-nav
-.search-nav-img {
-    width: 2rem;
+.search-nav {
+    width: 48.4rem;
+    height: 4.7rem;
+    border: 2px solid #dfe1e5;
+    border-radius: 24px;
 }
-.search-searcher
+.search-nav-img-lens {
+    width: 2rem;
+    margin-top: 1rem;
+    margin-right: 1.3rem;
+    opacity: 0.5;
+}
+.search-searcher{
+    border: none;
+    outline: none;
+    width: 38.7rem;
+    height: 3.4rem;
+    line-height: 100px;
+}
+.search-nav-img-mcp {
+    width: 1.5rem;
+    margin: 0 0.8rem;
+    margin-top: 1rem;
+}
 
 .buttons
 .buttons-items
